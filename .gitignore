@@ -1,0 +1,16 @@
+# IDE-specific files
+.idea/
+.classpath
+.project
+.settings/
+
+# Maven-specific files
+.mvn/
+target/
+
+# Build and report directories
+htmlReport/
+
+# OS-specific files
+*.DS_Store
+Thumbs.db
